@@ -1,0 +1,6 @@
+first of all i go to firebase and create new firebase project
+then i go to docs, build, authentication, web, get started
+web er icons select korbo
+firebase installation
+new file firebase add code added
+finally export app
